@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/edu-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/edu-demo/static/js/main.afec303c.chunk.js",
+    "main.js.map": "/edu-demo/static/js/main.afec303c.chunk.js.map",
+    "runtime-main.js": "/edu-demo/static/js/runtime-main.59d9c139.js",
+    "runtime-main.js.map": "/edu-demo/static/js/runtime-main.59d9c139.js.map",
+    "static/js/2.8a531514.chunk.js": "/edu-demo/static/js/2.8a531514.chunk.js",
+    "static/js/2.8a531514.chunk.js.map": "/edu-demo/static/js/2.8a531514.chunk.js.map",
+    "index.html": "/edu-demo/index.html",
+    "precache-manifest.7bc20ccffdc53978b12e2ca8f539fe80.js": "/edu-demo/precache-manifest.7bc20ccffdc53978b12e2ca8f539fe80.js",
+    "service-worker.js": "/edu-demo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/edu-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.8a531514.chunk.js.LICENSE.txt": "/edu-demo/static/js/2.8a531514.chunk.js.LICENSE.txt",
+    "static/media/email.png": "/edu-demo/static/media/email.74fbf6ed.png",
+    "static/media/intro-illustration_qneuer.svg": "/edu-demo/static/media/intro-illustration_qneuer.7f041395.svg",
+    "static/media/logo.svg": "/edu-demo/static/media/logo.5d5d9eef.svg",
+    "static/media/logo_i5t9wh.svg": "/edu-demo/static/media/logo_i5t9wh.fb1798c6.svg",
+    "static/media/stack.png": "/edu-demo/static/media/stack.db6d3e21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d9c139.js",
+    "static/js/2.8a531514.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.afec303c.chunk.js"
+  ]
+}
